@@ -289,8 +289,8 @@ screenshots/
 
 # 👨‍💻 Contributors
 
-**Dipti Shaw**
-**Ayushi Kumari**
+**Dipti Shaw**,
+**Ayushi Kumari** and
 **Harshita Gupta**
 B.Tech Computer Science & Engineering
 
